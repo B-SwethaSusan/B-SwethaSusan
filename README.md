@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @B-SwethaSusan
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning front end
-- 💞️ I’m looking to collaborate on web development
+- 🌱 I’m currently learning AI
+- 💞️ I’m looking to collaborate on AI agents
 - 📫 How to reach me susanswetha2@gmail.com
 
 <!---
