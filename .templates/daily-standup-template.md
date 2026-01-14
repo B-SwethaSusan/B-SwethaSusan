@@ -204,6 +204,8 @@
 
 ## 👥 **Individual Contributors**
 
+> **Note**: Add sections below for individual contributors as needed. The team-reference.md file lists all common contributors.
+
 ### **Arnav**
 **✅ Yesterday**
 - 
