@@ -78,9 +78,11 @@ Reference guide containing:
 
 ## File Naming Conventions
 
-Use consistent date formats:
+Use consistent date formats that match the template style:
 - **Formatted reports**: `YYYY-MM-DD.md` (e.g., `2026-01-15.md`)
 - **Simple notes**: `DD-MM-YY.md` (e.g., `15-01-26.md`)
+
+> **Note**: These two formats reflect existing patterns in the repository. Formatted reports (with markdown headers and emojis) historically use YYYY-MM-DD format, while simple text notes use DD-MM-YY format. This convention helps distinguish between the two report styles at a glance.
 
 ## Common Patterns to Avoid
 

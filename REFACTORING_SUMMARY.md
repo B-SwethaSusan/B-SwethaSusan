@@ -57,13 +57,17 @@ Created a comprehensive template system in `.templates/` directory:
 ```bash
 cp .templates/daily-standup-template.md 2026-01-16.md
 # Edit 2026-01-16.md and fill in team updates
+# Note: Formatted reports use YYYY-MM-DD.md naming
 ```
 
 **Option 2: Simple Notes**
 ```bash
 cp .templates/simple-standup-template.md 16-01-26.md
 # Edit 16-01-26.md and fill in team updates
+# Note: Simple notes use DD-MM-YY.md naming
 ```
+
+> **Date Format Note**: The two different date formats (YYYY-MM-DD for formatted, DD-MM-YY for simple) match existing repository conventions and help distinguish between the two report styles.
 
 ### Reference Materials
 - See `.templates/README.md` for complete documentation
