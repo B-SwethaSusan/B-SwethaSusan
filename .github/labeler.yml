@@ -1,0 +1,52 @@
+# Label configuration for auto-labeling PRs
+
+python:
+  - changed-files:
+      - any-glob-to-any-file: '**/*.py'
+
+documentation:
+  - changed-files:
+      - any-glob-to-any-file:
+          - '**/*.md'
+          - 'docs/**'
+          - 'README*'
+
+tests:
+  - changed-files:
+      - any-glob-to-any-file:
+          - 'tests/**'
+          - 'test_*.py'
+          - '*_test.py'
+
+config:
+  - changed-files:
+      - any-glob-to-any-file:
+          - '*.yml'
+          - '*.yaml'
+          - '*.json'
+          - '*.toml'
+          - '*.cfg'
+          - '*.ini'
+
+ci:
+  - changed-files:
+      - any-glob-to-any-file: '.github/**'
+
+frontend:
+  - changed-files:
+      - any-glob-to-any-file:
+          - '**/*.js'
+          - '**/*.ts'
+          - '**/*.jsx'
+          - '**/*.tsx'
+          - '**/*.css'
+          - '**/*.html'
+
+dependencies:
+  - changed-files:
+      - any-glob-to-any-file:
+          - 'requirements*.txt'
+          - 'setup.py'
+          - 'pyproject.toml'
+          - 'package.json'
+          - 'package-lock.json'
