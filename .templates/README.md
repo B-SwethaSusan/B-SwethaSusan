@@ -159,4 +159,4 @@ If you have existing reports in different formats:
 For questions or suggestions about the templates, please refer to:
 - `.templates/team-reference.md` for team names and conventions
 - This document for usage guidelines
-- Existing well-formatted reports (e.g., `09-12-25.md`, `10-12-25.md`) for examples
+- Example files (`example-daily-standup.md`, `example-simple-standup.md`) in this directory for complete examples
