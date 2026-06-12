@@ -75,20 +75,6 @@ Become the platform powering **world-changing scientific ventures** through auto
 
 </div>
 
----
-
-## 🚀 Platform Highlights
-
-Boltzmann Labs' **AI Discovery Suite** is an integrated platform of modular, interoperable scientific AI tools:
-
-- **🤖 Multi-Agent Scientific Workflows** — Orchestrate complex, multi-step research pipelines using collaborative AI agents that plan, reason, and execute autonomously.
-- **🧪 Generative Molecule Design** — De novo small molecule generation with controllable property profiles for target-driven drug discovery.
-- **📐 Property Prediction** — Accurate ADMET, physicochemical, and biological activity prediction across chemical and biological spaces.
-- **🔄 Retrosynthesis Planning** — AI-guided multi-step synthetic route planning for candidate molecules.
-- **🧬 Protein Engineering Engine** — Structure-aware protein sequence design, directed evolution simulation, and functional annotation.
-- **🔬 Scientific Reasoning Engine** — Large language model-powered reasoning over scientific literature, experimental data, and structured knowledge bases.
-- **📋 Clinical Research Intelligence** — Automated extraction and synthesis of clinical trial data, biomarker insights, and patient stratification signals.
-- **🎓 Academic Research Acceleration** — Tools tailored for academic labs to accelerate hypothesis generation, literature synthesis, and experimental design.
 
 ---
 
@@ -125,32 +111,6 @@ We actively contribute to the broader scientific AI ecosystem and encourage the 
 
 ---
 
-## 📁 Featured Projects
-
-> 🚧 *Models and datasets are being progressively released. Watch this space for updates.*
-
-### 🔬 Models
-
-| Model | Description | Status |
-|---|---|---|
-| `BoltzmannLabs/mol-gen-v1` | Generative model for small molecule design | 🔜 Coming Soon |
-| `BoltzmannLabs/protein-design-v1` | Protein sequence design and engineering | 🔜 Coming Soon |
-| `BoltzmannLabs/admet-predictor` | Multi-task ADMET property prediction | 🔜 Coming Soon |
-| `BoltzmannLabs/retrosyn-planner` | Retrosynthesis planning model | 🔜 Coming Soon |
-| `BoltzmannLabs/rna-design-v1` | RNA sequence design foundation model | 🔜 Coming Soon |
-| `BoltzmannLabs/sci-reasoning-llm` | Scientific reasoning and Q&A language model | 🔜 Coming Soon |
-
-### 📊 Datasets
-
-| Dataset | Description | Status |
-|---|---|---|
-| `BoltzmannLabs/molecule-admet-bench` | Curated ADMET benchmarking dataset | 🔜 Coming Soon |
-| `BoltzmannLabs/protein-function-db` | Annotated protein function dataset | 🔜 Coming Soon |
-| `BoltzmannLabs/retrosyn-reactions` | Curated multi-step reaction dataset | 🔜 Coming Soon |
-| `BoltzmannLabs/multi-omics-atlas` | Integrated multi-omics reference dataset | 🔜 Coming Soon |
-| `BoltzmannLabs/sci-literature-corpus` | Processed scientific literature corpus | 🔜 Coming Soon |
-
----
 
 ## 🏛️ Our Values
 
@@ -178,13 +138,7 @@ We welcome collaborations with:
 - 👩‍💻 **Independent researchers and developers** building on open scientific AI
 - 🌍 **Open-source contributors** passionate about AI for science
 
-### How to Get Involved
 
-- ⭐ **Star and follow** our repositories to stay updated
-- 🐛 **Report issues** or suggest improvements via GitHub
-- 🔀 **Submit pull requests** — contributions are always welcome
-- 💬 **Join discussions** on our model and dataset pages
-- 📢 **Share your work** built with Boltzmann Labs tools
 
 ---
 
@@ -198,7 +152,7 @@ We welcome collaborations with:
 | 🤗 Hugging Face | [huggingface.co/BoltzmannLabs](https://huggingface.co/BoltzmannLabs) |
 | 📧 contact | [contact@boltzmann.co](mailto:contact@boltzmann.co) |
 | 🤝 LinkedIn | [https://www.linkedin.com/company/boltzmannlabs/](https://www.linkedin.com/company/boltzmannlabs/) |
-| 🔬 Github | [https://github.com/boltzmannlabs](https://github.com/boltzmannlabs) |
+
 
 </div>
 
