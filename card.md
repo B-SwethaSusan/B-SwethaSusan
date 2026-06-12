@@ -196,9 +196,9 @@ We welcome collaborations with:
 |---|---|
 | 🌐 Website | [boltzmann.co](https://boltzmann.co) |
 | 🤗 Hugging Face | [huggingface.co/BoltzmannLabs](https://huggingface.co/BoltzmannLabs) |
-| 📧 General Inquiries | [hello@boltzmann.co](mailto:hello@boltzmann.co) |
-| 🤝 Partnerships | [partnerships@boltzmann.co](mailto:partnerships@boltzmann.co) |
-| 🔬 Research | [research@boltzmann.co](mailto:research@boltzmann.co) |
+| 📧 contact | [contact@boltzmann.co](mailto:contact@boltzmann.co) |
+| 🤝 LinkedIn | [https://www.linkedin.com/company/boltzmannlabs/](https://www.linkedin.com/company/boltzmannlabs/) |
+| 🔬 Github | [https://github.com/boltzmannlabs](https://github.com/boltzmannlabs) |
 
 </div>
 
